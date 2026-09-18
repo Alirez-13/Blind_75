@@ -1,0 +1,10 @@
+*.DotSettings.user
+.git
+
+.idea/
+
+# .NET build outputs
+bin/
+obj/
+**/bin/
+**/obj/
